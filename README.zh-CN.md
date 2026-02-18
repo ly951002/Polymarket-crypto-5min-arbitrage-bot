@@ -5,6 +5,7 @@
 面向 [Polymarket](https://polymarket.com) 加密货币「涨跌」5 分钟市场（UTC 时间）的 Rust 套利机器人。监控订单簿、检测 YES+NO 价差套利机会、通过 CLOB API 下单，并可定时对可赎回持仓执行 merge。
 
 ---
+### TG联系方式：[@polyboy123](https://t.me/polyboy123)
 
 <img width="1027" height="788" alt="image" src="https://github.com/user-attachments/assets/7ea3f755-5afa-4e4c-939d-6532e76cdac0" />
 
